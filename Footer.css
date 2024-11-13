@@ -1,0 +1,12 @@
+footer {
+    background-color: #1d171757;
+    /* color: rgb(63, 54, 54); */
+    text-align: center;
+   
+    color: #fff; 
+    font-size: 14px;
+    bottom: 0;
+    width: 100%;
+    position:fixed;
+    border-top: 2px;
+}
